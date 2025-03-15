@@ -26,3 +26,7 @@
 
 !CMakeLists.txt
 !LICENSES/*.txt
+
+bin/
+bin-int/
+*.vcxproj
